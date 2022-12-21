@@ -24,7 +24,6 @@ public class J1 {
                     throw new RuntimeException("輸入三次錯誤！程式停止！");
                 }    
             }
-            sc.close();
         }      
     }
 }
